@@ -8,12 +8,12 @@ public class Run {
 		String s = "smth";
 		Category cat1;
 //		System.out.println(cat1.name);
-		numbers(2, 5);
+		numbers(9, 4);
 	}
 
 	static void numbers(int i1, int i2){
 
 		int sum = i1 + i2;
-		System.out.println(sum);
+		System.out.println(sum + sum);
 	}
 }
